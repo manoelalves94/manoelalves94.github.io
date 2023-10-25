@@ -87,7 +87,7 @@ section {
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: var(--second-bg-color); /* url('/images/inicial.png') no-repeat; */
+    background: url('/images/inicial.png') no-repeat;
     background-size: cover;
     background-position: center;
 }
