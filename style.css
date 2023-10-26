@@ -216,7 +216,7 @@ section {
 .home-sci {
     position: absolute;
     bottom: 4rem;
-    width: 170px;
+    width: 100px;
     display: flex;
     justify-content: space-between;
 }
@@ -529,7 +529,7 @@ span {
     background: var(--main-color);
 }
 
-.skills-column:nth-child(1) .skills-content .progress:nth-child(1) .bar span {
+/*.skills-column:nth-child(1) .skills-content .progress:nth-child(1) .bar span {
     width: 60%;
 }
 
@@ -559,6 +559,10 @@ span {
 
 .skills-column:nth-child(2) .skills-content .progress:nth-child(4) .bar span {
     width: 60%;
+}*/
+
+.texto-skills{
+    font-size: 14px;
 }
 
 .contact {
